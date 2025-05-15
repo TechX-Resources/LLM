@@ -202,18 +202,5 @@ def get_pi_response(prompt):
 - [TensorFlow](https://www.tensorflow.org/)
 - [Weights & Biases](https://wandb.ai/) for experiment tracking
 
-## 🤝 Contributing
-
-We welcome contributions! Please feel free to submit a Pull Request.
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Contact
-
-For any questions or concerns, please open an issue in this repository or contact the course instructors.
-
 ## 🙏 Acknowledgments
-
 Special thanks to the open-source community and all the researchers who have contributed to the field of Natural Language Processing and Large Language Models.
