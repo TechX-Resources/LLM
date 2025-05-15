@@ -371,7 +371,9 @@ def retry_on_failure(max_retries=3, delay=1):
 
 ## ☁️ Cloud Development with Google Cloud Platform
 
-### Getting Started with GCP
+### Getting Started with GCP (Optional)
+# Note: You can also use any other cloud provider of your choice. Here is a list of cloud providers:
+https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison
 
 1. **Sign Up and Free Credits**
    - Create a Google Cloud account
@@ -564,27 +566,4 @@ Note: Prices may vary by region and time. Check Google Cloud pricing calculator 
 
 ## 🙏 Acknowledgments
 
-We would like to express our sincere gratitude to:
-
-1. **Open Source Community**
-   - Hugging Face team for their transformative work in making LLMs accessible
-   - PyTorch and TensorFlow teams for their excellent deep learning frameworks
-   - The broader open-source community for their continuous contributions
-
-2. **Research Community**
-   - Google Research for their pioneering work in transformer architectures
-   - OpenAI for pushing the boundaries of language models
-   - Anthropic for their work on constitutional AI
-   - Meta AI for their contributions to open-source LLMs
-
-3. **Cloud Providers**
-   - Google Cloud Platform for their generous free tier and educational resources
-   - NVIDIA for their GPU technology and CUDA framework
-   - All cloud providers making AI development more accessible
-
-4. **Educational Resources**
-   - Stanford University for CS224N
-   - Fast.ai for their practical deep learning courses
-   - All educators and content creators in the AI space
-
-This project stands on the shoulders of giants, and we are grateful for the collective effort that has made LLM development accessible to everyone.
+We would like to express our sincere gratitude to the Open Source Community.
