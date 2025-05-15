@@ -2,9 +2,9 @@
 
 Welcome to the LLM from Scratch cohort! This repository contains resources, code, and materials for learning about Large Language Models from the ground up.
 
-## 🎯 Course Overview
+## 🎯 Overview
 
-This cohort is designed to help you understand and implement Large Language Models from scratch. We'll cover everything from the fundamentals of neural networks to building and fine-tuning your own LLM.
+This cohort is designed to help you understand and implement Large Language Models from scratch. We'll cover everything from the fundamentals of building and fine-tuning your own LLM. You will each work on a use-case that you will do end-to-end with your teammates.
 
 ## 💻 Development Environment Setup
 
