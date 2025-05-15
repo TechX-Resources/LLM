@@ -372,7 +372,7 @@ def retry_on_failure(max_retries=3, delay=1):
 ## ☁️ Cloud Development with Google Cloud Platform
 
 ### Getting Started with GCP (Optional)
-# Note: You can also use any other cloud provider of your choice. Here is a list of cloud providers:
+#### Note: You can also use any other cloud provider of your choice. Here is a list of cloud providers:
 https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison
 
 1. **Sign Up and Free Credits**
