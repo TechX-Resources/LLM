@@ -179,32 +179,6 @@ def get_pi_response(prompt):
         return None
 ```
 
-## 📚 Recommended Resources
-
-### Books
-- "Attention Is All You Need" (Original Transformer Paper)
-- "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
-- "Natural Language Processing with Transformers" by Lewis Tunstall et al.
-
-### Online Courses
-- Stanford CS224N: Natural Language Processing with Deep Learning
-- Fast.ai's Practical Deep Learning for Coders
-- Hugging Face Course on Transformers
-
-### Papers
-- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
-- [BERT: Pre-training of Deep Bidirectional Transformers](https://arxiv.org/abs/1810.04805)
-- [GPT: Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
-
-### Tools and Libraries
-- [Hugging Face Transformers](https://huggingface.co/docs/transformers/index)
-- [PyTorch](https://pytorch.org/)
-- [TensorFlow](https://www.tensorflow.org/)
-- [Weights & Biases](https://wandb.ai/) for experiment tracking
-
-## 🙏 Acknowledgments
-Special thanks to the open-source community and all the researchers who have contributed to the field of Natural Language Processing and Large Language Models.
-
 ## 💡 Best Practices & Tips
 
 ### API Client Initialization
@@ -394,3 +368,29 @@ def retry_on_failure(max_retries=3, delay=1):
    - ❌ Not using batch processing
    - ❌ Not implementing caching
    - ❌ Not optimizing memory usage
+
+## 📚 Recommended Resources
+
+### Books
+- "Attention Is All You Need" (Original Transformer Paper)
+- "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
+- "Natural Language Processing with Transformers" by Lewis Tunstall et al.
+
+### Online Courses
+- Stanford CS224N: Natural Language Processing with Deep Learning
+- Fast.ai's Practical Deep Learning for Coders
+- Hugging Face Course on Transformers
+
+### Papers
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- [BERT: Pre-training of Deep Bidirectional Transformers](https://arxiv.org/abs/1810.04805)
+- [GPT: Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
+
+### Tools and Libraries
+- [Hugging Face Transformers](https://huggingface.co/docs/transformers/index)
+- [PyTorch](https://pytorch.org/)
+- [TensorFlow](https://www.tensorflow.org/)
+- [Weights & Biases](https://wandb.ai/) for experiment tracking
+
+## 🙏 Acknowledgments
+Special thanks to the open-source community and all the researchers who have contributed to the field of Natural Language Processing and Large Language Models.
